@@ -1,1 +1,18 @@
-{"schema_version":1,"last_run":"2026-02-22T00:00:00.000Z","vendors":{"openai":{"last_run":"2026-02-22T00:00:00.000Z"},"anthropic":{"last_run":"2026-02-22T00:00:00.000Z"},"google":{"last_run":"2026-02-22T00:00:00.000Z"},"meta":{"last_run":"2026-02-22T00:00:00.000Z"}}}
+{
+  "schema_version": 1,
+  "last_run": "2026-05-22T06:00:49.773Z",
+  "vendors": {
+    "openai": {
+      "last_run": "2026-05-22T06:00:49.773Z"
+    },
+    "anthropic": {
+      "last_run": "2026-05-22T06:00:49.773Z"
+    },
+    "google": {
+      "last_run": "2026-05-22T06:00:49.773Z"
+    },
+    "meta": {
+      "last_run": "2026-05-22T06:00:49.773Z"
+    }
+  }
+}
