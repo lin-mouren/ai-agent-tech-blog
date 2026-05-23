@@ -85,7 +85,7 @@ Latest News
 
 [FEATURED\\
 \\
-![](https://scontent-lax3-1.xx.fbcdn.net/v/t39.2365-6/668130848_1453339552354697_3291493920555502062_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=gmYXuA2aMIwQ7kNvwEpEhHU&_nc_oc=Adr-_XxTwhUgvY_CxaoiFeOT668Y4Ivt002t5TXUfC_leSnpNgKJzyxzQL7wvX3PKi8&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=6-wuZY5oXLesszusR4nvHA&_nc_ss=7b289&oh=00_Af4t0XWMcXOZDkAqDynGFLzJCI-8ULaINuqotOr1VL5FPQ&oe=6A29FBAE)](https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai/)
+![](https://scontent-lax3-1.xx.fbcdn.net/v/t39.2365-6/668130848_1453339552354697_3291493920555502062_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=gmYXuA2aMIwQ7kNvwEpEhHU&_nc_oc=Adr-_XxTwhUgvY_CxaoiFeOT668Y4Ivt002t5TXUfC_leSnpNgKJzyxzQL7wvX3PKi8&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=6-wuZY5oXLesszusR4nvHA&_nc_ss=7b289&oh=00_Af4tX0WMcXOZDkAqDynGFLzJCI-8ULaINuqotOr1VL5FPQ&oe=6A29FBAE)](https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai/)
 
 Research
 
@@ -97,7 +97,7 @@ Apr 8, 2026
 
 Computer Vision
 
-[How Alta Daily Uses Meta's Segment Anything to Reimagine the Digital Closet](https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything/)
+[How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet](https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything/)
 
 Apr 6, 2026
 
@@ -173,7 +173,7 @@ Foundational models
 
 [![](https://scontent-lax3-1.xx.fbcdn.net/v/t39.8562-6/336289415_1541032296405649_2165099305308791297_n.svg?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=8bounfEuaS4Q7kNvwGCu3wL&_nc_oc=AdpR1acYOgA7vPHVvgEy4Wtj4mqJvlp7ywdb3fZCB_-FUyvp6-KU0-2wrpHa9VU-wq0&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=6-wuZY5oXLesszusR4nvHA&_nc_ss=7b289&oh=00_Af5rqb-6bRAjiZfpIqkRpbw1J0HEmWvZazv2-dT8miU-rQ&oe=6A1572BB)\\
 \\
-![](https://scontent-lax3-1.xx.fbcdn.net/v/t39.8562-6/336289415_1541032296405649_2165099305308791297_n.svg?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=8bounfEuaS4Q7kNvwGCu3wL&_nc_oc=AdpR1acYOgA7vPHVvgEy4Wtj4mqJvlp7ywdb3fZCB_-FUyvp6-KU0-2wrpHa9VU-wq0&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=6-wuZY5oXLesszusR4nvHA&_nc_ss=7b289&oh=00_Af5rqb-6bRAjiZfpIqkRpbw1J0HEmWvZazv2-dT8miU-rQ&oe=6A1572BB)](https://www.linkedin.com/showcase/aiatmeta/)
+![](https://scontent-lax3-1.xx.fbcdn.net/v/t39.8562-6/336289415_1541032296405649_2165099305308791297_n.svg?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=8bounfEuaS4Q7kNvwGCu3wL&_nc_oc=AdpR1acYOgA7vPHVvgEy4Wtj4mqJvlp7ywdb3fZCB_-FUyvp6-KU0-2wrpHa9VU-wq0&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=6-wuZY5oXLesszusR4nvHA&_nc_ss=7b289&oh=00_Af5rqb-6bRAjiZfpIqkRpbw1J0HEmWvZazv2-dT8miU-rQ&oe=6A1572BB)](https://www.linkedin.com/showcase/aiatmeta)
 
 [![](https://scontent-lax3-1.xx.fbcdn.net/v/t39.8562-6/335648731_142576991793348_7786819189843639239_n.svg?_nc_cat=108&ccb=1-7&_nc_sid=e280be&_nc_ohc=ZflYyZAnRdIQ7kNvwFbTCgA&_nc_oc=Adp6t_P5NDylLfi2pZcnYCY2nxcjiQNyTmCnmosb4CZAjsFIi6TcW7QJU3sgfIGXwSE&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=6-wuZY5oXLesszusR4nvHA&_nc_ss=7b289&oh=00_Af7UM1ok618wHtZ4YEjFaGkgnSBC38DQUD8NRjBmlMW6Mg&oe=6A158C2E)\\
 \\
@@ -199,6 +199,44 @@ Foundational models
 
 [Llama](https://www.llama.com/)
 
-[![](https://scontent-lax3-2.xx.fbcdn.net/v/t39.8562-6/335682312_964107378293184_3093631164486164913_n.svg?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=1cYY7wB0lfEQ7kNvwFnFrJ9&_nc_oc=Adqrzb_vM40mMXZ5mcSEX4gZCS2OhiiGBSlWcUrbg28n9PBnnvtU36hJZ1L8yt_puRA&_nc_zt=14&_nc_ht=scontent-lax3-2.xx&_nc_gid=6-wuZY5oXLesszusR4nvHA&_nc_ss=7b289&oh=00_Af5cobgRXXn-8BZoQ26BaswAuWzB98n2Vqa1obpalo4pw&oe=6A1586E7)\\
+[![](https://scontent-lax3-2.xx.fbcdn.net/v/t39.8562-6/335682312_964107378293184_3093631164486164913_n.svg?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=1cYY7wB0lfEQ7kNvwFnFrJ9&_nc_oc=Adqrzb_vM40mMXZ5mcSEX4gZCS2OhiiGBSlWcUrbg28n9PBnnvtU36hJZ1L8yt_puRA&_nc_zt=14&_nc_ht=scontent-lax3-2.xx&_nc_gid=6-wuZY5oXLesszusR4nvHA&_nc_ss=7b289&oh=00_Af5cobgRXXn8-5BZoQ26BaswAuWzB98n2Vqa1obpalo4pw&oe=6A1586E7)\\
 \\
-![](https://scontent-lax3-2.xx.fbcdn.net/v/t39.812,4-6,請繼續')"
+![](https://scontent-lax3-2.xx.fbcdn.net/v/t39.8562-6/335682312_964107378293184_3093631164486164913_n.svg?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=1cYY7wB0lfEQ7kNvwFnFrJ9&_nc_oc=Adqrzb_vM40mMXZ5mcSEX4gZCS2OhiiGBSlWcUrbg28n9PBnnvtU36hJZ1L8yt_puRA&_nc_zt=14&_nc_ht=scontent-lax3-2.xx&_nc_gid=6-wuZY5oXLesszusR4nvHA&_nc_ss=7b289&oh=00_Af5cobgRXXn8-5BZoQ26BaswAuWzB98n2Vqa1obpalo4pw&oe=6A1586E7)](https://www.facebook.com/aiatmeta/)
+
+[![](https://scontent-lax3-2.xx.fbcdn.net/v/t39.8562-6/336009607_1870102080040414_6753977241281150924_n.svg?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=Y0YUrpUMRnIQ7kNvwGld32O&_nc_oc=AdqkLxXyZAZ8LSgI39m8XAuvAg6muwgp9q4ibwJcaDqTw3VJ304vhhLS2A_xhYdKZso&_nc_zt=14&_nc_ht=scontent-lax3-2.xx&_nc_gid=6-wuZY5oXLesszusR4nvHA&_nc_ss=7b289&oh=00_Af4t0nEBKUjPo_hhmh2ElAzNMQdSTs49F59mN8Z9rR-duQ&oe=6A157F22)\\
+\\
+![](https://scontent-lax3-2.xx.fbcdn.net/v/t39.8562-6/336009607_1870102080040414_6753977241281150924_n.svg?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=Y0YUrpUMRnIQ7kNvwGld32O&_nc_oc=AdqkLxXyZAZ8LSgI39m8XAuvAg6muwgp9q4ibwJcaDqTw3VJ304vhhLS2A_xhYdKZso&_nc_zt=14&_nc_ht=scontent-lax3-2.xx&_nc_gid=6-wuZY5oXLesszusR4nvHA&_nc_ss=7b289&oh=00_Af4t0nEBKUjPo_hhmh2ElAzNMQdSTs49F59mN8Z9rR-duQ&oe=6A157F22)](https://twitter.com/aiatmeta/)
+
+[![](https://scontent-lax3-1.xx.fbcdn.net/v/t39.8562-6/336289415_1541032296405649_2165099305308791297_n.svg?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=8bounfEuaS4Q7kNvwGCu3wL&_nc_oc=AdpR1acYOgA7vPHVvgEy4Wtj4mqJvlp7ywdb3fZCB_-FUyvp6-KU0-2wrpHa9VU-wq0&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=6-wuZY5oXLesszusR4nvHA&_nc_ss=7b289&oh=00_Af5rqb-6bRAjiZfpIqkRpbw1J0HEmWvZazv2-dT8miU-rQ&oe=6A1572BB)\\
+\\
+![](https://scontent-lax3-1.xx.fbcdn.net/v/t39.8562-6/336289415_1541032296405649_2165099305308791297_n.svg?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=8bounfEuaS4Q7kNvwGCu3wL&_nc_oc=AdpR1acYOgA7vPHVvgEy4Wtj4mqJvlp7ywdb3fZCB_-FUyvp6-KU0-2wrpHa9VU-wq0&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=6-wuZY5oXLesszusR4nvHA&_nc_ss=7b289&oh=00_Af5rqb-6bRAjiZfpIqkRpbw1J0HEmWvZazv2-dT8miU-rQ&oe=6A1572BB)](https://www.linkedin.com/showcase/aiatmeta)
+
+[![](https://scontent-lax3-1.xx.fbcdn.net/v/t39.8562-6/335648731_142576991793348_7786819189843639239_n.svg?_nc_cat=108&ccb=1-7&_nc_sid=e280be&_nc_ohc=ZflYyZAnRdIQ7kNvwFbTCgA&_nc_oc=Adp6t_P5NDylLfi2pZcnYCY2nxcjiQNyTmCnmosb4CZAjsFIi6TcW7QJU3sgfIGXwSE&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=6-wuZY5oXLesszusR4nvHA&_nc_ss=7b289&oh=00_Af7UM1ok618wHtZ4YEjFaGkgnSBC38DQUD8NRjBmlMW6Mg&oe=6A158C2E)\\
+\\
+![](https://scontent-lax3-1.xx.fbcdn.net/v/t39.8562-6/335648731_142576991793348_7786819189843639239_n.svg?_nc_cat=108&ccb=1-7&_nc_sid=e280be&_nc_ohc=ZflYyZAnRdIQ7kNvwFbTCgA&_nc_oc=Adp6t_P5NDylLfi2pZcnYCY2nxcjiQNyTmCnmosb4CZAjsFIi6TcW7QJU3sgfIGXwSE&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=6-wuZY5oXLesszusR4nvHA&_nc_ss=7b289&oh=00_Af7UM1ok618wHtZ4YEjFaGkgnSBC38DQUD8NRjBmlMW6Mg&oe=6A158C2E)](https://www.youtube.com/@aiatmeta)
+
+[Privacy Policy](https://www.facebook.com/about/privacy/)
+
+[Terms](https://www.facebook.com/policies/)
+
+[Cookies](https://www.facebook.com/policies/cookies/)
+
+Meta © 2026
+
+[![](https://scontent-lax3-2.xx.fbcdn.net/v/t39.8562-6/335682312_964107378293184_3093631164486164913_n.svg?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=1cYY7wB0lfEQ7kNvwFnFrJ9&_nc_oc=Adqrzb_vM40mMXZ5mcSEX4gZCS2OhiiGBSlWcUrbg28n9PBnnvtU36hJZ1L8yt_puRA&_nc_zt=14&_nc_ht=scontent-lax3-2.xx&_nc_gid=6-wuZY5oXLesszusR4nvHA&_nc_ss=7b289&oh=00_Af5cobgRXXn8-5BZoQ26BaswAuWzB98n2Vqa1obpalo4pw&oe=6A1586E7)\\
+\\
+![](https://scontent-lax3-2.xx.fbcdn.net/v/t39.8562-6/335682312_964107378293184_3093631164486164913_n.svg?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=1cYY7wB0lfEQ7kNvwFnFrJ9&_nc_oc=Adqrzb_vM40mMXZ5mcSEX4gZCS2OhiiGBSlWcUrbg28n9PBnnvtU36hJZ1L8yt_puRA&_nc_zt=14&_nc_ht=scontent-lax3-2.xx&_nc_gid=6-wuZY5oXLesszusR4nvHA&_nc_ss=7b289&oh=00_Af5cobgRXXn8-5BZoQ26BaswAuWzB98n2Vqa1obpalo4pw&oe=6A1586E7)](https://www.facebook.com/aiatmeta/)
+
+[![](https://scontent-lax3-2.xx.fbcdn.net/v/t39.8562-6/336009607_1870102080040414_6753977241281150924_n.svg?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=Y0YUrpUMRnIQ7kNvwGld32O&_nc_oc=AdqkLxXyZAZ8LSgI39m8XAuvAg6muwgp9q4ibwJcaDqTw3VJ304vhhLS2A_xhYdKZso&_nc_zt=14&_nc_ht=scontent-lax3-2.xx&_nc_gid=6-wuZY5oXLesszusR4nvHA&_nc_ss=7b289&oh=00_Af4t0nEBKUjPo_hhmh2ElAzNMQdSTs49F59mN8Z9rR-duQ&oe=6A157F22)\\
+\\
+![](https://scontent-lax3-2.xx.fbcdn.net/v/t39.8562-6/336009607_1870102080040414_6753977241281150924_n.svg?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=Y0YUrpUMRnIQ7kNvwGld32O&_nc_oc=AdqkLxXyZAZ8LSgI39m8XAuvAg6muwgp9q4ibwJcaDqTw3VJ304vhhLS2A_xhYdKZso&_nc_zt=14&_nc_ht=scontent-lax3-2.xx&_nc_gid=6-wuZY5oXLesszusR4nvHA&_nc_ss=7b289&oh=00_Af4t0nEBKUjPo_hhmh2ElAzNMQdSTs49F59mN8Z9rR-duQ&oe=6A157F22)](https://twitter.com/aiatmeta/)
+
+[![](https://scontent-lax3-1.xx.fbcdn.net/v/t39.8562-6/336289415_1541032296405649_2165099305308791297_n.svg?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=8bounfEuaS4Q7kNvwGCu3wL&_nc_oc=AdpR1acYOgA7vPHVvgEy4Wtj4mqJvlp7ywdb3fZCB_-FUyvp6-KU0-2wrpHa9VU-wq0&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=6-wuZY5oXLesszusR4nvHA&_nc_ss=7b289&oh=00_Af5rqb-6bRAjiZfpIqkRpbw1J0HEmWvZazv2-dT8miU-rQ&oe=6A1572BB)\\
+\\
+![](https://scontent-lax3-1.xx.fbcdn.net/v/t39.8562-6/336289415_1541032296405649_2165099305308791297_n.svg?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=8bounfEuaS4Q7kNvwGCu3wL&_nc_oc=AdpR1acYOgA7vPHVvgEy4Wtj4mqJvlp7ywdb3fZCB_-FUyvp6-KU0-2wrpHa9VU-wq0&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=6-wuZY5oXLesszusR4nvHA&_nc_ss=7b289&oh=00_Af5rqb-6bRAjiZfpIqkRpbw1J0HEmWvZazv2-dT8miU-rQ&oe=6A1572BB)](https://www.linkedin.com/showcase/aiatmeta)
+
+[![](https://scontent-lax3-1.xx.fbcdn.net/v/t39.8562-6/335648731_142576991793348_7786819189843639239_n.svg?_nc_cat=108&ccb=1-7&_nc_sid=e280be&_nc_ohc=ZflYyZAnRdIQ7kNvwFbTCgA&_nc_oc=Adp6t_P5NDylLfi2pZcnYCY2nxcjiQNyTmCnmosb4CZAjsFIi6TcW7QJU3sgfIGXwSE&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=6-wuZY5oXLesszusR4nvHA&_nc_ss=7b289&oh=00_Af7UM1ok618wHtZ4YEjFaGkgnSBC38DQUD8NRjBmlMW6Mg&oe=6A158C2E)\\
+\\
+![](https://scontent-lax3-1.xx.fbcdn.net/v/t39.8562-6/335648731_142576991793348_7786819189843639239_n.svg?_nc_cat=108&ccb=1-7&_nc_sid=e280be&_nc_ohc=ZflYyZAnRdIQ7kNvwFbTCgA&_nc_oc=Adp6t_P5NDylLfi2pZcnYCY2nxcjiQNyTmCnmosb4CZAjsFIi6TcW7QJU3sgfIGXwSE&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=6-wuZY5oXLesszusR4nvHA&_nc_ss=7b289&oh=00_Af7UM1ok618wHtZ4YEjFaGkgnSBC38DQUD8NRjBmlMW6Mg&oe=6A158C2E)](https://www.youtube.com/@aiatmeta)
+
+Facebook
