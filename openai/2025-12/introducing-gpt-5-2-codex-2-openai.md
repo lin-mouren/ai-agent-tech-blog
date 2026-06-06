@@ -1,46 +1,56 @@
 ---
 title: "Introducing GPT-5.2-Codex"
 vendor: openai
-source_url: https://openai.com/index/gpt-5-2-codex/
-published_at: 2025-12-18T00:00:00.000Z
-crawled_at: 2026-05-23T14:59:27.000Z
-word_count: 2800
-reading_time_minutes: 14
-tags: [coding, agents, cybersecurity, codex, software-engineering]
+source_url: https://openai.com/index/introducing-gpt-5-2-codex/
+published_at: 2025-12-18
+tags: [gpt-5.2, codex, agentic-coding, cybersecurity, software-engineering, model-release]
 ---
 
 # Introducing GPT-5.2-Codex
 
+**December 18, 2025** | OpenAI
+
 The most advanced agentic coding model for professional software engineering and defensive cybersecurity.
 
-Today we're releasing GPT-5.2-Codex, the most advanced agentic coding model yet for complex, real-world software engineering. GPT-5.2-Codex is a version of GPT-5.2 further optimized for agentic coding in Codex, including improvements on long-horizon work through context compaction, stronger performance on large code changes like refactors and migrations, improved performance in Windows environments, and significantly stronger cybersecurity capabilities.
+## Overview
 
-As our models continue to advance along the intelligence frontier, we've observed that these improvements also translate to capability jumps in specialized domains such as cybersecurity. For example, just last week, a security researcher using GPT-5.1-Codex-Max with Codex CLI found and responsibly disclosed a vulnerability in React that could lead to source code exposure.
+OpenAI released GPT-5.2-Codex, the most advanced agentic coding model yet for complex, real-world software engineering. GPT-5.2-Codex is a version of GPT-5.2 further optimized for agentic coding in Codex, including:
 
-GPT-5.2-Codex has stronger cybersecurity capabilities than any model we've released so far. These advances can help strengthen cybersecurity at scale, but they also raise new dual-use risks that require careful deployment. While GPT-5.2-Codex does not reach a 'High' level of cyber capability under our Preparedness Framework, we're designing our deployment approach with future capability growth in mind.
+- Improvements on long-horizon work through context compaction
+- Stronger performance on large code changes like refactors and migrations
+- Improved performance in Windows environments
+- Significantly stronger cybersecurity capabilities
 
-We're releasing GPT-5.2-Codex today in all Codex surfaces for paid ChatGPT users, and working towards safely enabling access to GPT-5.2-Codex for API users in the coming weeks.
+## Capabilities
 
-### Pushing the frontier on real-world software engineering
+### Software Engineering
 
-GPT-5.2-Codex builds on GPT-5.2's strengths in professional knowledge work and GPT-5.1-Codex-Max's frontier agentic coding and terminal-using capabilities. GPT-5.2-Codex is now better at long-context understanding, reliable tool calling, improved factuality, and native compaction, making it a more dependable partner for long running coding tasks, while remaining token-efficient in its reasoning.
+GPT-5.2-Codex achieves state-of-the-art performance on:
+- **SWE-Bench Pro** — tests agentic performance on realistic terminal environments
+- **Terminal-Bench 2.0** — benchmark for testing AI agents in real terminal environments
 
-GPT-5.2-Codex achieves state-of-the-art performance on SWE-Bench Pro (56.4%) and Terminal-Bench 2.0 (64.0%), benchmarks designed to test agentic performance on a wide variety of tasks in realistic terminal environments. It is also much more effective and reliable at agentic coding in native Windows environments.
+With these improvements, Codex is more capable at working in large repositories over extended sessions. It can more reliably complete complex tasks like large refactors, code migrations, and feature builds.
 
-With these improvements, Codex is more capable at working in large repositories over extended sessions with full context intact. It can more reliably complete complex tasks like large refactors, code migrations, and feature builds—continuing to iterate without losing track, even when plans change or attempts fail.
+### Cybersecurity Capabilities
 
-### Advancing the cyber frontier
+GPT-5.2-Codex has stronger cybersecurity capabilities than any model OpenAI has previously released. These advances can help strengthen cybersecurity at scale, but they also raise new dual-use risks that require careful deployment.
 
-When charting performance on one of our core cybersecurity evaluations over time, we see a sharp jump in capability starting with GPT-5-Codex, another large jump with GPT-5.1-Codex-Max and now a third jump with GPT-5.2-Codex. We expect that upcoming AI models will continue on this trajectory.
+A notable real-world example: Andrew MacPherson, a principal security engineer at Privy (a Stripe company), used GPT-5.1-Codex-Max with Codex CLI to discover three previously unknown React security vulnerabilities (disclosed December 11, 2025), demonstrating how AI can materially accelerate defensive security work.
 
-On December 11, 2025, the React team published three security vulnerabilities affecting apps built with React Server Components. A security researcher using GPT-5.1-Codex-Max with Codex CLI, while attempting to reproduce a different critical React vulnerability (React2Shell, CVE-2025-55182), discovered previously unknown vulnerabilities. These were responsibly disclosed to the React team.
+### Vision Performance
 
-This demonstrates how advanced AI systems can materially accelerate defensive security work in widely used, real-world software. At the same time, capabilities that help defenders move faster can also be misused by bad actors.
+Stronger vision performance enables GPT-5.2-Codex to more accurately interpret screenshots, technical diagrams, charts, and UI surfaces shared during coding sessions. It can take design mocks and quickly translate them to functional prototypes.
 
-### Empowering cyberdefense through trusted access
+## Deployment Approach
 
-Security teams can run into restrictions when attempting to emulate threat actors, analyze malware to support remediation, or stress test critical infrastructure. We are developing a trusted access pilot to remove that friction for qualifying users and organizations and enable trusted defenders to use frontier AI cyber capabilities to accelerate cyberdefense.
+GPT-5.2-Codex is released in all Codex surfaces for paid ChatGPT users. OpenAI is:
+- Working towards safely enabling API access in the coming weeks
+- Piloting invite-only trusted access for vetted professionals focused on defensive cybersecurity
 
-### Conclusion
+## Trusted Access Pilot
 
-GPT-5.2-Codex represents a step forward in how advanced AI can support real-world software engineering and specialized domains like cybersecurity—helping developers and defenders tackle complex, long-horizon work, and strengthening the tools available for responsible security research.
+OpenAI is developing a trusted access pilot for qualifying security professionals who:
+- Have a track record of responsible vulnerability disclosure
+- Belong to organizations with a clear professional cybersecurity use case
+
+Qualifying participants will get access to the most capable models for defensive use-cases, enabling legitimate dual-use work including vulnerability research and authorized red-teaming.
