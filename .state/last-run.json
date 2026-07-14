@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "last_run": "2026-07-13T02:00:01.729Z",
+  "last_run": "2026-07-14T02:00:05.409Z",
   "vendors": {
     "openai": {
       "last_run": "2026-07-10T07:00:00.000Z"
     },
     "anthropic": {
-      "last_run": "2026-07-10T02:00:02.923Z"
+      "last_run": "2026-07-13T17:00:08.407Z"
     },
     "google": {
       "last_run": "2026-07-10T17:00:00.000Z"
