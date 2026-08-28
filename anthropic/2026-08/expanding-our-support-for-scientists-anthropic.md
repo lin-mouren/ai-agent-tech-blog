@@ -1,0 +1,56 @@
+---
+title: "Expanding our support for scientists \ Anthropic"
+vendor: anthropic
+source_url: https://www.anthropic.com/news/expanding-support-for-scientists
+published_at: 2026-08-27T20:00:03.460Z
+crawled_at: 2026-08-28T02:00:39.630Z
+word_count: 537
+reading_time_minutes: 3
+tags: [agents, infrastructure, api, product]
+---
+
+Announcements
+
+# Expanding our support for scientists
+
+Aug 27, 2026
+
+
+
+As Claude becomes increasingly capable at scientific research, we are focusing on building products and programs to support the research community. In June, we launched [Claude Science](https://www.anthropic.com/news/claude-science-ai-workbench), a product that integrates the tools that researchers most commonly use, produces auditable artifacts, and provides flexible access to computing resources. We have also continued to broaden our [AI for Science program](https://www.anthropic.com/news/ai-for-science-program), which provides free credits to researchers working on high-impact scientific projects.
+
+Starting today, we are announcing a significant expansion of these efforts. We are opening 10,000 seats for scientists around the world to access Claude subscriptions for free and at discounted rates for one year through our new [Claude team plan for scientists](http://claude.com/programs/team-plan-for-scientists). Standard seats will be free and premium seats with 5x usage limits will be available for $15 per month. Over the coming months, we intend to extend this program well beyond the initial 10,000 seats.
+
+Alongside these subscriptions, we are also expanding the scope and scale of our [AI for Science](https://www.anthropic.com/news/ai-for-science-program) program. To date, we’ve largely supported scientists using Claude for biological sciences. We are now looking to offer credits for researchers in other scientific fields as well, including those working on ambitious, compute heavy-research, such of the kind that resulted in progress on the [Riemann zeta function](https://www.anthropic.com/research/riemann-zeta) and [Claude’s work on protein design](https://www.anthropic.com/research/Claude-accelerates-protein-design).
+
+By helping scientists access and increase their usage of Claude through subscriptions, credits, and products like [Claude Science](https://claude.com/product/claude-science), we aim to radically accelerate scientific discovery.
+
+### **Ways to access Claude**
+
+To register for our Claude team plan for scientists, please [complete the verification form here](http://claude.ai/redirect/website.v1.2c3ddd0b-9855-4ecd-92cb-31eb14ac4e08/labs-verification/attestation). You must be a principal investigator or equivalent at an academic or nonprofit research institution to qualify; once verified, you can add the researchers in your lab to your plan.
+
+As your lab makes use of your allotted credits and requires more usage than standard or premium plans provide, you can [apply to our AI for Science program](https://docs.google.com/forms/d/e/1FAIpQLSfwDGfVg2lHJ0cc0oF_ilEnjvr_r4_paYi7VLlr5cLNXASdvA/viewform?usp=dialog) for up to $50,000 in credits per project. Any researcher is eligible to apply.
+
+For now, researchers working in biology and chemistry will still be limited to our Opus-class models. Claude Fable models will [continue to block](https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards) professional biology and drug development queries because of their potential dual-use risks. We’re working in partnership with the US government to establish an access program for life sciences professionals to use Mythos-class models for life sciences research and development. We have now enrolled our first participants, and expect to share more and increase access soon.
+
+[Share on Twitter](https://twitter.com/intent/tweet?text=https://www.anthropic.com/news/expanding-support-for-scientists)[Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://www.anthropic.com/news/expanding-support-for-scientists)
+
+## Related content
+
+### Previewing the Model Hardware Standard
+
+We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.
+
+[Read more](https://www.anthropic.com/news/model-hardware-standard-research-preview)
+
+### Funding better evaluations of AI’s impact on wellbeing
+
+We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing.
+
+[Read more](https://www.anthropic.com/news/wellbeing-research-grants)
+
+### How Claude’s text watermark works
+
+In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.
+
+[Read more](https://www.anthropic.com/news/claude-text-watermark)
